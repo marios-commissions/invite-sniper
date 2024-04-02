@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   discord.js:
-    specifier: github:localip/discord.js-selfbot-v13
-    version: github.com/localip/discord.js-selfbot-v13/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc
+    specifier: github:marioparaschiv/discord.js-selfbot-v13
+    version: github.com/marioparaschiv/discord.js-selfbot-v13/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc
   node-fetch-retry:
     specifier: ^2.0.1
     version: 2.0.1
@@ -748,8 +748,8 @@ packages:
     resolution: {integrity: sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g==}
     dev: false
 
-  github.com/localip/discord.js-selfbot-v13/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc:
-    resolution: {tarball: https://codeload.github.com/localip/discord.js-selfbot-v13/tar.gz/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc}
+  github.com/marioparaschiv/discord.js-selfbot-v13/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc:
+    resolution: {tarball: https://codeload.github.com/marioparaschiv/discord.js-selfbot-v13/tar.gz/6b398f69e211ad3d72a05e2abd73cc0b34b53cdc}
     name: discord.js-selfbot-v13
     version: 2.9.20
     engines: {node: '>=16.6.0', npm: '>=7.0.0'}

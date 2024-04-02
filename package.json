@@ -3,10 +3,10 @@
 	"version": "1.0.0",
 	"description": "Snipes Discord invites to a customizable list of server IDs.",
 	"main": "index.js",
-	"author": "Mario <mariovparaschiv@gmail.com> (github.com/localip)",
+	"author": "Mario <me@marioparaschiv.com> (github.com/marioparaschiv)",
 	"license": "Unlicensed",
 	"dependencies": {
-		"discord.js": "github:localip/FORK.discord.js-selfbot-v13",
+		"discord.js": "github:marioparaschiv/FORK.discord.js-selfbot-v13",
 		"node-fetch-retry": "^2.0.1"
 	}
 }
